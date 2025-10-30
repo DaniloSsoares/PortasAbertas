@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MeuPrimeiroAppReactNative",
-    "slug": "MeuPrimeiroAppReactNative",
+    "name": "PortasAbertasReact",
+    "slug": "PortasAbertasReact",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "meuprimeiroappreactnative",
+    "scheme": "portasabertasreact",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
